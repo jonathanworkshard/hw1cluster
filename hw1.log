@@ -1,0 +1,157 @@
+there are 5983 different HCPCS codes shown
+                                   count
+nppes_credentials                   4896
+nppes_provider_gender                  3
+nppes_entity_code                      2
+nppes_provider_city                12839
+nppes_provider_zip                308735
+nppes_provider_state                  61
+nppes_provider_country                22
+provider_type                         91
+medicare_participation_indicator       2
+place_of_service                       2
+hcpcs_code                            12
+hcpcs_drug_indicator                   2
+new number of categories after outlier removal
+                                 count
+nppes_credentials                   12
+nppes_provider_gender                3
+nppes_entity_code                    2
+nppes_provider_state                37
+nppes_provider_country               1
+provider_type                       38
+medicare_participation_indicator     1
+place_of_service                     2
+hcpcs_code                          11
+hcpcs_drug_indicator                 2
+Counter({'US': 9497376, 'JP': 90, 'DE': 74, 'CA': 54, 'IN': 47, 'TR': 36, 'KR': 35, 'PK': 35, 'GB': 33, 'SA': 30, 'GR': 23, 'AR': 10, 'IL': 10, 'KW': 9, 'IT': 8, 'TH': 7, 'FR': 3, 'NO': 3, 'NL': 3, 'JO': 2, 'VE': 2, 'AG': 1})
+Counter({'Y': 9494451, 'N': 3440})
+on cluster number 2
+on cluster number 3
+on cluster number 4
+on cluster number 5
+on cluster number 6
+on cluster number 7
+on cluster number 8
+on cluster number 9
+on cluster number 10
+on cluster number 2
+on cluster number 3
+on cluster number 4
+on cluster number 5
+on cluster number 6
+on cluster number 7
+on cluster number 8
+on cluster number 9
+on cluster number 10
+on cluster number 11
+on cluster number 12
+on cluster number 13
+on cluster number 14
+on cluster number 15
+on cluster number 16
+on cluster number 17
+on cluster number 18
+on cluster number 19
+on cluster number 20
+on cluster number 21
+on cluster number 22
+on cluster number 23
+on cluster number 24
+on cluster number 25
+on cluster number 26
+on cluster number 27
+on cluster number 28
+on cluster number 29
+on cluster number 30
+on cluster number 31
+on cluster number 32
+on cluster number 33
+on cluster number 34
+on cluster number 35
+on cluster number 36
+on cluster number 37
+on cluster number 38
+on cluster number 39
+on cluster number 40
+on cluster number 41
+on cluster number 42
+on cluster number 43
+on cluster number 44
+on cluster number 45
+on cluster number 46
+on cluster number 47
+on cluster number 48
+on cluster number 49
+on cluster number 50
+on cluster number 51
+on cluster number 52
+on cluster number 53
+on cluster number 54
+on cluster number 55
+on cluster number 56
+on cluster number 57
+on cluster number 58
+on cluster number 59
+on cluster number 60
+on cluster number 2
+on cluster number 3
+on cluster number 4
+on cluster number 5
+on cluster number 6
+on cluster number 7
+on cluster number 8
+on cluster number 9
+on cluster number 10
+on cluster number 11
+on cluster number 12
+on cluster number 13
+on cluster number 14
+on cluster number 15
+on cluster number 16
+on cluster number 17
+on cluster number 18
+on cluster number 19
+on cluster number 20
+on cluster number 21
+on cluster number 22
+on cluster number 23
+on cluster number 24
+on cluster number 25
+on cluster number 26
+on cluster number 27
+on cluster number 28
+on cluster number 29
+on cluster number 30
+on cluster number 31
+on cluster number 32
+on cluster number 33
+on cluster number 34
+on cluster number 35
+on cluster number 36
+on cluster number 37
+on cluster number 38
+on cluster number 39
+on cluster number 40
+on cluster number 41
+on cluster number 42
+on cluster number 43
+on cluster number 44
+on cluster number 45
+on cluster number 46
+on cluster number 47
+on cluster number 48
+on cluster number 49
+on cluster number 50
+on cluster number 51
+on cluster number 52
+on cluster number 53
+on cluster number 54
+on cluster number 55
+on cluster number 56
+on cluster number 57
+on cluster number 58
+on cluster number 59
+on cluster number 60
+There are 47473 charge submissions that are 3 standard deviations from other payment amounts in well formed clusters
+Moving outliers from 3 standard deviations away to 2 standard deviations would save 2385331 dollars
